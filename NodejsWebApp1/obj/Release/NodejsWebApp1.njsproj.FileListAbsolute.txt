@@ -1,0 +1,2 @@
+T:\NodejsWebApp1\obj\Release\NodejsWebApp1.njsproj.CoreCompileInputs.cache
+T:\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
